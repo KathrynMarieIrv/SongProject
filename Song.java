@@ -1,5 +1,5 @@
 /**
- * 
+ * Adding a comment to test GitHub
  */
 package collection;
 
